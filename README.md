@@ -1,6 +1,6 @@
 # Tom SENTIEYS
 
-Major de promotion en Licence Informatique & Management à l'[Université Paris-Est Créteil](https://www.u-pec.fr/) 
+Major de promotion en Licence Informatique & Management à l'Université Paris-Est Créteil.
 Je suis admis au Master MIAGE de l'université Paris Dauphine - PSL.
 
 Actuellement à la recherche d’une alternance en gestion de projets SI /cyber ou plus largement dans les métiers de l’informatique et de la Data.
