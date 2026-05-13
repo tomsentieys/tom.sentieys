@@ -1,2 +1,2 @@
 # tom.sentieys
-Portfolio Computer Science &amp; Management
+Portfolio Informatique &amp; Managemen
