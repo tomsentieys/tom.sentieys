@@ -101,5 +101,5 @@ Sujets déjà explorés :
 
 ## Contact
 
-- LinkedIn : *www.linkedin.com/in/tom-sentieys-a8880528a*
-- Email : *tomsentieys@gmail.com*
+- LinkedIn : *[Tom SENTIEYS](www.linkedin.com/in/tom-sentieys-a8880528a)*
+- Email : *[tomsentieys@gmail.com]*
