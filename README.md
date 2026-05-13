@@ -1,95 +1,105 @@
 # Tom SENTIEYS
 
-Computer Science & Management student at [Université Paris-Est Créteil](https://www.u-pec.fr/)  
-Currently looking for an apprenticeship opportunity in software development, cybersecurity, or IT-related fields.
+Major de promotion en Licence Informatique & Management à l'[Université Paris-Est Créteil](https://www.u-pec.fr/) 
+Je suis admis au Master MIAGE de l'université Paris Dauphine - PSL.
+
+Actuellement à la recherche d’une alternance en gestion de projets SI /cyber ou plus largement dans les métiers de l’informatique et de la Data.
 
 ---
 
-## About Me
+## À propos de moi
 
-I am passionate about technology, problem solving, and continuous learning.  
-My interests mainly include:
+Passionné par les nouvelles technologies, la résolution de problèmes et l’apprentissage continu, je développe progressivement mes compétences à travers des projets académiques, personnels et des plateformes d’entraînement en ligne.
 
-- Software Development
-- Cybersecurity
-- Artificial Intelligence
-- Databases & Information Systems
-- Web Technologies
-- Tech for Environmental Impact
+Mes principaux centres d’intérêt :
 
-I enjoy building projects, learning new technologies, and improving my technical skills through practical work and online platforms.
+- Développement logiciel
+- Cybersécurité
+- Intelligence artificielle
+- Bases de données & systèmes d’information
+- Développement web
+- Technologies appliquées aux enjeux environnementaux
 
 ---
 
-## Skills
+## Compétences
 
-### Languages
+### Langages
 
 - Python
 - Java
-- JavaScript
 - SQL
 - PHP
 - HTML / CSS
 
-### Technologies & Tools
+### Technologies & Outils
 
 - Git & GitHub
 - Linux
 - MySQL
 - Oracle SQL
-- Docker *(currently learning)*
-- Cygwin
-- VS Code
 
-### Areas of Interest
+### Business Analytics & Data
 
-- Cybersecurity
-- Artificial Intelligence
-- Web Development
-- Networks
-- Databases
+- Excel
+- Python for Data Analysis
+- Pack Office
+- Power BI
+- Statistiques décisionnelles
+
+### Domaines d’intérêt
+
+- Cybersécurité
+- Intelligence artificielle
+- Développement web
+- Réseaux
+- Bases de données
 
 ---
+### Certifications Cyber
 
-## Learning Platforms
+- MOOC ChatGPT et IA
+- MOOC ANSSI
+- MOOC RGPD
+- MOOC SecNumAcademie
+- MOOC SensCyber
+
+## Plateformes d’apprentissage
 
 - [TryHackMe](https://tryhackme.com/)
 - [LeetCode](https://leetcode.com/)
 - [Codecademy](https://www.codecademy.com/)
-- [CryptoHack](https://cryptohack.org/)
 
 ---
 
-## Projects
+## Projets
 
-This section will progressively include:
+Cette section sera progressivement complétée avec :
 
-- University projects from my Computer Science & Management degree
-- Personal development projects
-- Cybersecurity labs and challenges
-- AI-related projects
-- Algorithmic exercises and coding challenges
+- Les projets réalisés durant mon cursus en Informatique & Management
+- Mes projets personnels
+- Des laboratoires et challenges en cybersécurité
+- Des projets autour de l’intelligence artificielle
+- Des exercices d’algorithmique et de programmation
 
-Topics I have already worked on include:
+Sujets déjà explorés :
 
-- AI for ecological restoration and biodiversity
-- Ecological addon project for OpenTTD
-- Cybersecurity challenges (OSINT, cryptography, web security)
-- Database and web application projects
+- Intelligence artificielle appliquée à la restauration écologique et à la biodiversité
+- Développement d’un addon écologique pour OpenTTD
+- Challenges de cybersécurité (OSINT, cryptographie, sécurité web)
+- Projets de bases de données et d’applications web
 
 ---
 
-## Goals
+## Objectifs
 
-- Build a strong technical portfolio
-- Gain professional experience through an apprenticeship
-- Improve my software engineering and cybersecurity skills
-- Contribute to meaningful and innovative projects
+- Développer mes compétences en développement logiciel et cybersécurité
+- Acquérir une expérience professionnelle en alternance
+- Participer à des projets utiles et innovants
 
 ---
 
 ## Contact
 
-- LinkedIn: *(add your profile link here)*
-- Email: *(add your professional email here)*
+- LinkedIn : *www.linkedin.com/in/tom-sentieys-a8880528a*
+- Email : *tomsentieys@gmail.com*
