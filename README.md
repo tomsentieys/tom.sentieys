@@ -1,9 +1,10 @@
 # Tom SENTIEYS
 
-Major de promotion en Licence Informatique & Management à l'Université Paris-Est Créteil.
-Je suis admis au Master MIAGE de l'université Paris Dauphine - PSL.
+Apprenti en Ingénierie Informatique,
+Je recherche un contrat d'apprentissage d'une durée de 24 mois à partir de Septembre 2026.
 
-Actuellement à la recherche d’une alternance en gestion de projets SI /cyber ou plus largement dans les métiers de l’informatique et de la Data.
+Master 1 MIAGE Université Paris Dauphine - PSL
+Major de promotion L3 Informatique & Management à l'IAE Paris-Est Créteil
 
 ---
 
@@ -64,40 +65,14 @@ Mes principaux centres d’intérêt :
 - MOOC SecNumAcademie
 - MOOC SensCyber
 
-## Plateformes d’apprentissage
-
-- [TryHackMe](https://tryhackme.com/)
-- [LeetCode](https://leetcode.com/)
-- [Codecademy](https://www.codecademy.com/)
-
----
-
 ## Projets
 
-Cette section sera progressivement complétée avec :
+QS Impact Challenge 2025 Advanced Category : 
 
-- Les projets réalisés durant mon cursus en Informatique & Management
-- Mes projets personnels
-- Des laboratoires et challenges en cybersécurité
-- Des projets autour de l’intelligence artificielle
-- Des exercices d’algorithmique et de programmation
+The QS ImpACT Skills Challenge is a free global competition, using digital games to tackle the UN Sustainable Development Goals (SDGs) through social innovation, creative collaboration, and community engagement among youth. Participants will be trained by industry experts from Arizona State University, University of Exeter, Unity, Netcore, J.P. Morgan and more, to design sustainability-focused games that help tackle pressing global challenges.
 
-Sujets déjà explorés :
+Lien de notre contribution : [https://github.com/tomsentieys/EcoTTD-QS-impACT]
 
-- Intelligence artificielle appliquée à la restauration écologique et à la biodiversité
-- Développement d’un addon écologique pour OpenTTD
-- Challenges de cybersécurité (OSINT, cryptographie, sécurité web)
-- Projets de bases de données et d’applications web
-
----
-
-## Objectifs
-
-- Développer mes compétences en développement logiciel et cybersécurité
-- Acquérir une expérience professionnelle en alternance
-- Participer à des projets utiles et innovants
-
----
 
 ## Contact
 
